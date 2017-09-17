@@ -7,13 +7,13 @@ This is a list:
   2. two
   2. Three
 
-This ia an inline code: 'bash'
+This ia an inline code: `bash`
 
 This is a code block:
 
-'''
+```
 wget knewnln.png
 
-'''
+```
 
 ### Bye Bye line
